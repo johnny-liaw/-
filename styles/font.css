@@ -1,47 +1,47 @@
 @font-face {
     font-family: 'JBM-Regular';
-    src:  url('/assets/font/woff2/JetBrainsMono-Regular.woff2') format('woff2'),
-          url('/assets/font/woff/JetBrainsMono-Regular.woff') format('woff');
+    src:  url('../assets/font/woff2/JetBrainsMono-Regular.woff2') format('woff2'),
+          url('../assets/font/woff/JetBrainsMono-Regular.woff') format('woff');
 }
 
 @font-face {
     font-family: 'JBM-Medium';
-    src:  url('/assets/font/woff2/JetBrainsMono-Medium.woff2') format('woff2'),
-          url('/assets/font/woff/JetBrainsMono-Medium.woff') format('woff');
+    src:  url('../assets/font/woff2/JetBrainsMono-Medium.woff2') format('woff2'),
+          url('../assets/font/woff/JetBrainsMono-Medium.woff') format('woff');
 }
 
 @font-face {
     font-family: 'JBM-Medium-Italic';
-    src:  url('/assets/font/woff2/JetBrainsMono-Medium-Italic.woff2') format('woff2'),
-          url('/assets/font/woff/JetBrainsMono-Medium-Italic.woff') format('woff');
+    src:  url('../assets/font/woff2/JetBrainsMono-Medium-Italic.woff2') format('woff2'),
+          url('../assets/font/woff/JetBrainsMono-Medium-Italic.woff') format('woff');
 }
 
 @font-face {
     font-family: 'JBM-Italic';
-    src:  url('/assets/font/woff2/JetBrainsMono-Italic.woff2') format('woff2'),
-          url('/assets/font/woff/JetBrainsMono-Italic.woff') format('woff');
+    src:  url('../assets/font/woff2/JetBrainsMono-Italic.woff2') format('woff2'),
+          url('../assets/font/woff/JetBrainsMono-Italic.woff') format('woff');
 }
 
 @font-face {
     font-family: 'JBM-ExtraBold';
-    src:  url('/assets/font/woff2/JetBrainsMono-ExtraBold.woff2') format('woff2'),
-          url('/assets/font/woff/JetBrainsMono-ExtraBold.woff') format('woff');
+    src:  url('../assets/font/woff2/JetBrainsMono-ExtraBold.woff2') format('woff2'),
+          url('../assets/font/woff/JetBrainsMono-ExtraBold.woff') format('woff');
 }
 
 @font-face {
     font-family: 'JBM-ExtraBold-Italic';
-    src:  url('/assets/font/woff2/JetBrainsMono-ExtraBold-Italic.woff2') format('woff2'),
-          url('/assets/font/woff/JetBrainsMono-ExtraBold-Italic.woff') format('woff');
+    src:  url('../assets/font/woff2/JetBrainsMono-ExtraBold-Italic.woff2') format('woff2'),
+          url('../assets/font/woff/JetBrainsMono-ExtraBold-Italic.woff') format('woff');
 }
 
 @font-face {
     font-family: 'JBM-Bold';
-    src:  url('/assets/font/woff2/JetBrainsMono-Bold.woff2') format('woff2'),
-          url('/assets/font/woff/JetBrainsMono-Bold.woff') format('woff');
+    src:  url('../assets/font/woff2/JetBrainsMono-Bold.woff2') format('woff2'),
+          url('../assets/font/woff/JetBrainsMono-Bold.woff') format('woff');
 }
 
 @font-face {
     font-family: 'JBM-Bold-Italic';
-    src:  url('/assets/font/woff2/JetBrainsMono-Bold-Italic.woff2') format('woff2'),
-          url('/assets/font/woff/JetBrainsMono-Bold-Italic.woff') format('woff');
+    src:  url('../assets/font/woff2/JetBrainsMono-Bold-Italic.woff2') format('woff2'),
+          url('../assets/font/woff/JetBrainsMono-Bold-Italic.woff') format('woff');
 }
