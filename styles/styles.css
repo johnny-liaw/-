@@ -1,0 +1,124 @@
+body {
+    background-color: #0d0d0d;
+}
+
+#content {
+    margin-top: 3em;
+}
+
+#header > div {
+    display: inline-block;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+#footer{
+    text-align: center;
+}
+#footer > a {
+    padding-right: 10px;
+}
+
+@media all and (min-width: 20px) {
+    #emoji {
+        font-size: 80px;
+    }
+    #header {
+        color: white;
+        text-align: center;
+    }
+    #name {
+        font-family: 'JBM-Bold';
+        text-align: left;
+        padding-left: 1rem;
+    }
+    #firstName {
+        margin-block-start:0; 
+        margin-block-end:0; 
+        margin-inline-start:0; 
+        margin-inline-end:0;
+        font-size: 40px;s
+    }
+    #lastName {
+        margin-block-start:0; 
+        margin-block-end:0; 
+        margin-inline-start:0; 
+        margin-inline-end:0;
+        font-size: 30px;
+    }
+    #paragraphs {
+        max-width: 550px;
+        margin: 0 5% auto;
+        font-size: 16px;
+        font-family: "JBM-Regular";
+        color: white;
+
+    }
+    #paragraphs > p {
+        margin-bottom: 30px;
+    }
+    #greeting {
+        font-family: "JBM-ExtraBold";
+        font-size: 18px;
+    }
+    #role {
+        font-family: "JBM-Italic"
+    }
+}
+
+@media all and (min-width: 768px) {
+    #content {
+        margin-top: 5rem;
+    }
+    #emoji {
+        font-size: 150px;
+    }
+    #header {
+        color: white;
+        text-align: center;
+    }
+    #name {
+        font-family: 'JBM-Bold';
+        text-align: left;
+        padding-left: 25px;
+    }
+    #firstName {
+        margin-block-start:0; 
+        margin-block-end:0; 
+        margin-inline-start:0; 
+        margin-inline-end:0;
+        font-size: 80px;s
+    }
+    #lastName {
+        margin-block-start:0; 
+        margin-block-end:0; 
+        margin-inline-start:0; 
+        margin-inline-end:0;
+        font-size: 45px;
+    }
+    #paragraphs {
+        max-width: 550px;
+        margin: auto;
+        font-size: 18px;
+        font-family: "JBM-Regular";
+        color: white;
+
+    }
+    #paragraphs > p {
+        margin-bottom: 30px;
+    }
+    #greeting {
+        font-family: "JBM-ExtraBold";
+        font-size: 20px;
+    }
+    #role {
+        font-family: "JBM-Italic"
+    }
+}
+
